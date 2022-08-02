@@ -1,7 +1,7 @@
 # Getting Started with Zendev React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app),
-using the custom template `cra-template-zendev`.
+using the custom template [cra-template-zendev](https://github.com/ZendevTech/cra-template-zendev).
 
 ## Available Scripts
 
@@ -18,7 +18,6 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -28,4 +27,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `npm run format`
+
+Analyzes and fixes any formatting errors found in source files.\
