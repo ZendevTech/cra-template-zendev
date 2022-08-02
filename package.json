@@ -1,0 +1,17 @@
+{
+    "name": "@zendevtech/cra-template-zendev",
+    "version": "0.0.1",
+    "description": "The base template for React applications using Typescript and Tailwind.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "engines": {
+        "node": ">=14"
+    },
+    "files": [
+        "template",
+        "template.json"
+    ]
+}
