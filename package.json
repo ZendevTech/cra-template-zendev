@@ -1,6 +1,6 @@
 {
     "name": "@zendevtech/cra-template-zendev",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "The base template for React applications using Typescript and Tailwind.",
     "homepage": "https://github.com/ZendevTech/cra-template-zendev#readme",
     "repository": {
